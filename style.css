@@ -1,0 +1,31 @@
+
+      .green::-moz-selection{
+      color: #8ebf42;
+      }
+      .green::selection{
+      color: #8ebf42;
+      background-color: initial;
+      }
+      .bg-green::-moz-selection{
+      background-color: #8ebf42;
+      }
+      .bg-green::selection{
+      background-color: #8ebf42;
+      }
+      .bg-transparent::-moz-selection{
+      color: #8ebf42;
+      background-color: transparent;
+      }
+      .bg-transparent::selection{
+      color: #8ebf42;
+      background-color: transparent;
+      }
+      .white-green::-moz-selection{
+      color: #fff;
+      background-color: #8ebf42;
+      }
+      .white-green::selection{
+      color: #fff;
+      background-color: #8ebf42;
+      }
+  
